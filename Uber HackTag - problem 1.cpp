@@ -62,8 +62,8 @@ int main(){
             if(str1[j]==str2[i] ){
                 if(str1[j+2]==str2[i+1]){
                     if(str1[j+4]==str2[i+2]){
-                    counter++;
-					}
+                    	counter++;
+			}
                 }
             }
         }
@@ -71,8 +71,8 @@ int main(){
             if(str1[j]==str2[i] ){
                 if(str1[j+2]==str2[i+1]){
                     if(str1[j+4]==str2[i+2]){
-                    counter++;
-                    }
+                    	counter++;
+                   	}
                 }
             }
         }
